@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+    font-size: 16px;
+    font-family: 'Roboto' , sans-serif;
+    font-weight: normal;
+
+}
+.info-text p {
+    font-style: italic;
+    font-weight: bold;
+
+}
+
+.im {
+    color: rgba(79, 34, 9, 1);
+}
+
+body {
+    background-color: rgba(237, 233, 222, 1);
+}
+
+#biba {
+    color: rgba(79, 34, 9, 1);
+}
+
+#game {
+    color: rgba(79, 34, 9, 1);
+}
+
+#table {
+    color: rgba(79, 34, 9, 1);
+}
+
+#skill {
+    color: rgba(79, 34, 9, 1);
+}
+
+#my {
+    color: rgba(79, 34, 9, 1);
+}
+
+#give {
+    color: rgba(79, 34, 9, 1);
+}
+
+#gun {
+    color: rgba(79, 34, 9, 1); 
+}
+
+#lol {
+    color: rgba(79, 34, 9, 1);
+}
